@@ -10,4 +10,5 @@
     <string name="createQuestion">Ещё нет аккаунта?</string>
     <string name="signInCustomer">Вход для клиентов</string>
     <string name="title_activity_drivers_map">DriversMapActivity</string>
+    <string name="title_activity_customers_map">CustomersMapActivity</string>
 </resources>
